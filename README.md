@@ -14,7 +14,7 @@ De fet, obtenim el terme “ordinador” de la pràctica oblidada de la computac
 
 Per tant, comprendre l’ordinador requereix estudiar tant les seves tecnologies essencials com la història que hi ha darrere del mite utòpic. Una història de grans màquines de càlcul, construïdes per accelerar els motors de la guerra, i l’anomenada “Ideologia californiana” que va sorgir del complex militar-industrial per produir la Silicon Valley que coneixem actualment.
 
-[hello world](http://avant.org/project/hello-world/)
+[hello world, Taeyoon Choi](http://avant.org/project/hello-world/)
 
 ## Ethos de la industrialització
 
@@ -29,6 +29,24 @@ Són abstraccions dissenyades controlades per la repetició: la repetició de la
 La repetició és una potent eina que ens permet realitzar tasques complexes desglossant-les en una sèrie d’operacions senzilles. Permet un patró bàsic per escalar a estructures més grans i complexes. Aquest procés d’escalat mitjançant la repetició es pot observar des dels detalls microscòpics dels xips de silici fins a la gran escala del desenvolupament urbà.
 
 ## El binarisme?
+
+L’artista  va dir una vegada: “de vegades fer alguna cosa poètica pot arribar a ser polític i de vegades fer alguna cosa política pot arribar a ser poètic". [Francis Alÿs](http://francisalys.com/the-green-line/)
+
+La poesia de construir un ordinador esdevé política quan comencem a triar com representar el món amb un zero i un.
+
+Si considerem zero i un per significar fals i cert, hem pogut construir un sistema de lògica al voltant d’aquesta representació. Però, i si ara utilitzem zero i un per representar altres números?
+
+[Paraula Absència amb ASCII, "l?absència és la presència en la distància, silenci és soroll sense caràcter"](http://objects.avant.org/zero-one/plotter.jpg)
+
+Què és, doncs, per ser digital?
+
+[Alexander R. Galloway](http://cultureandcommunication.org/galloway/something-about-the-digital) diu que “el digital significa que es divideix en dos”. No l’ordinador digital — l’ésser digital— els estats binaris d’absència i presència.
+
+Si tot el que tenim és zero i un, hem de tallar-ne un en dos, de manera que existeixi al mig.
+
+Si l'absència és 0, i la presència és 1. L'acte d'escurçar la distància és l'acte de presència, és la divisió que fem, el tall, la cicatriu, l'empremta de la nostra existència.
+
+En aquests moments d’interdependència, zero significa un i un altre per a zero. En aquests moments de presència, el temps i l’espai són irrecomputables, impotografiables i irracionals: sentim el buit entre pensament i experiència.
 
 Crítica a la Ciutat Intel·ligent de [Shannon Mattern](https://placesjournal.org/article/a-city-is-not-a-computer/), la ciutat com espai que combina dades amb la memòria i la decisió amb l’execució. En lloc de reduir la ciutat a un ordinador, ens repta a "reconèixer la intel·ligència espacial com a sensorial i experiencial; que consideren les maneres de conèixer d’altres espècies; que agraeixen la saviesa de les agrupacions i comunitats locals; que reconeix la informació integrada a les façanes, la flora, les estàtues i les escales de la ciutat; que tenen com a objectiu integrar formes de cognició distribuïda en paral·lel als processos cognitius distribuïts del nostre cervell.
 

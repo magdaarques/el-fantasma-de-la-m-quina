@@ -15,5 +15,7 @@ En aquest projecte explorarem el regne de l’incomputable. En l’àmbit digita
 lògiques i incompletitud racional. En el regne analògic, l’incomputable consta de totes aquelles coses que romanen 
 ingovernables, indisposables o que no es veuen. Vine a explorar amb nosaltres el present binari i el futur no binari.
 
+Uncomputable(https://sfpc.io/uncomputable/)
+
 ## Ethos de la industrialització
 ## 

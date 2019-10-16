@@ -54,6 +54,12 @@ Potser algunes qualitats de les ciutats són incontestables, com la imprevisibil
 
 Pensar en similituds i diferències entre la ciutat i l’ordinador ens ajuda a reconèixer les complexitats culturals que l’envolten. En obrir l’ordinador per mirar el funcionament interior, podem començar a preguntar-nos: quin tipus d’ordinadors volem utilitzar i quins tipus de ciutats volem viure?
 
+Quines formes de memòria cultural no s’adapten als prestatges de la biblioteca o als servidors de la ciutat? Coneixements performatius com dansa, ritual, cuina, esports. Dades ambientals com ombres, vent i rovell. 
+
+La intel·ligència urbana implica experiència, observació, compromís sensorial. Necessitem nous models per pensar en ciutats que no calculen.
+
+Hauríem de rebutjar els models basats en dades que deleguen decisions crítiques, sovint ètiques, a la màquina.
+
 ## L'incomputable - L'ingovernable
 
 Segons els filòsofs digitals, el món és un ordinador i tot el que hi ha dins és computable. 

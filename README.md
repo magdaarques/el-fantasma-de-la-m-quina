@@ -3,7 +3,8 @@ Taller 19/10/19
 
 ## Serendipia
 Una [serendipitat](https://ca.wikipedia.org/wiki/Serendipitat#cite_note-1) és un descobriment casual o imprevist fet per un investigador en el curs d’una recerca orientada a altres objectius i amb pressupòsits teòrics diferents. Les serendipitats es produeixen sense planificació i es donen de manera inesperada. Al llarg de la història de la ciència, les serendipitats i els descobriments vinculats a l'atzar han constituït una constant permanent
-[cybernetic serendipity](https://www.youtube.com/watch?v=n8TJx8n9UsA)
+
+[Cybernetic Serendipity](https://www.youtube.com/watch?v=n8TJx8n9UsA)
 
 ## La màquina
 ## El binarisme?

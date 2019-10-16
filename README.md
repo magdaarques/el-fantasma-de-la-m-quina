@@ -1,4 +1,4 @@
-# el-fantasma-de-la-m-quina
+# el-fantasma-de-la-màquina
 Taller 19/10/19
 
 ## Serendipia

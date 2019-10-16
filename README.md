@@ -16,8 +16,25 @@ Per tant, comprendre l’ordinador requereix estudiar tant les seves tecnologies
 
 [hello world](http://avant.org/project/hello-world/)
 
+## Ethos de la industrialització
+
+* Els esquemes de CPU visualitzen les operacions i el flux d’informació del maquinari de l’ordinador.
+
+* Les pintures com Instant City ofereixen formes geomètriques de control a la superfície bidimensional.
+
+* Els plans de ciutat descriuen la disposició i l’organització de la vida urbana.
+
+Són abstraccions dissenyades controlades per la repetició: la repetició de la senyal, la repetició de la visualització, la repetició de la interacció.
+
+La repetició és una potent eina que ens permet realitzar tasques complexes desglossant-les en una sèrie d’operacions senzilles. Permet un patró bàsic per escalar a estructures més grans i complexes. Aquest procés d’escalat mitjançant la repetició es pot observar des dels detalls microscòpics dels xips de silici fins a la gran escala del desenvolupament urbà.
+
 ## El binarisme?
 
+Crítica a la Ciutat Intel·ligent de [Shannon Mattern](https://placesjournal.org/article/a-city-is-not-a-computer/), la ciutat com espai que combina dades amb la memòria i la decisió amb l’execució. En lloc de reduir la ciutat a un ordinador, ens repta a "reconèixer la intel·ligència espacial com a sensorial i experiencial; que consideren les maneres de conèixer d’altres espècies; que agraeixen la saviesa de les agrupacions i comunitats locals; que reconeix la informació integrada a les façanes, la flora, les estàtues i les escales de la ciutat; que tenen com a objectiu integrar formes de cognició distribuïda en paral·lel als processos cognitius distribuïts del nostre cervell.
+
+Potser algunes qualitats de les ciutats són incontestables, com la imprevisibilitat del medi ambient o la naturalesa imparable de la ment humana.
+
+Pensar en similituds i diferències entre la ciutat i l’ordinador ens ajuda a reconèixer les complexitats culturals que l’envolten. En obrir l’ordinador per mirar el funcionament interior, podem començar a preguntar-nos: quin tipus d’ordinadors volem utilitzar i quins tipus de ciutats volem viure?
 
 ## L'incomputable - L'ingovernable
 

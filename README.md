@@ -18,4 +18,6 @@ ingovernables, indisposables o que no es veuen. Vine a explorar amb nosaltres el
 [Uncomputable](https://sfpc.io/uncomputable/)
 
 ## Ethos de la industrialització
-## 
+## Artist
+* [Kazuo Nakamura. Number Structure II, 1984](https://live.staticflickr.com/4734/39232760241_9c93589450_b.jpg)
+* [Apollinaire, Caligrama, poema de 9 de febrer, 1915](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjm2fWm8KDlAhWJnhQKHURgBkcQjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCaligramas_(Apollinaire)&psig=AOvVaw0eOtGcuaveyi7csB08WTa2&ust=1571318661597415)

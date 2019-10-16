@@ -7,7 +7,18 @@ Una [serendipitat](https://ca.wikipedia.org/wiki/Serendipitat#cite_note-1) és u
 [Cybernetic Serendipity, Exposició, institute of Contemporary Arts, Londres, 1968](https://www.youtube.com/watch?v=n8TJx8n9UsA)
 
 ## La màquina
+
+El primer ordinador era l'humà.
+
+De fet, obtenim el terme “ordinador” de la pràctica oblidada de la computació humana. Molt abans que els ordinadors esdevinguessin “personals”, es contractava tota una professió de màrqueting aritmètic (sobretot dones) per a la producció científica i militar.
+
+Per tant, comprendre l’ordinador requereix estudiar tant les seves tecnologies essencials com la història que hi ha darrere del mite utòpic. Una història de grans màquines de càlcul, construïdes per accelerar els motors de la guerra, i l’anomenada “Ideologia californiana” que va sorgir del complex militar-industrial per produir la Silicon Valley que coneixem actualment.
+
+[hello world](http://avant.org/project/hello-world/)
+
 ## El binarisme?
+
+
 ## L'incomputable - L'ingovernable
 
 Segons els filòsofs digitals, el món és un ordinador i tot el que hi ha dins és computable. 

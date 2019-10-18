@@ -105,7 +105,7 @@ No podran superposar-se les línees. Cada jugador deurà de continuar la línea 
 ### Relacions
 
 1. Utilitza el full blanc 1m x 1m
-2. El primer dibuixa una C, el segon una A, el tercer una S i el quart una A. 
+2. El primer dibuixa una C, el segon una A, el tercer una S i el quart una A. S'ha d'intentar dibuixar els caràcters els més menut possible.
 A continuació per cada torn crea una línea contínua que envolte els quatre caràcters amb un espai entre els caràcters i la línea de 2cm i progressivament, en els successius torns anar dibuixant aquest línea per fora de la mateixa.
 3. Para de dibuixar quan cregues que ja no es pot dibuixar més.
 

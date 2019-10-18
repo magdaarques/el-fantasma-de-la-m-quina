@@ -81,15 +81,42 @@ X tinta xina
 
 X 4 instruments casers a triar
 
-### Equidistàncies
+### Personetes
 
 1. Utilitzar el full blanc 1m x 1m
 2. Dibuixar un punt cadascú
 amb la ferramenta escollida.
-El punt no podrà
-situar-se a menys de 2cm.
-3. Parar quan es crega que el full ja no caben mé
-s punts.
+El punt no podrà situar-se a menys de 2cm.
+3. Parar quan es crega que el full ja no caben més punts.
+
+### Els camins
+
+1. Utilitzar el full blanc 1m x 1m
+2. Dibuixar una línea contínua tot lo fina que es puga amb la ferramenta escollida.
+Aquesta línea haurà de parar-se de dibuixar quan ja no quede més tinta a l'instrument de dibuix.
+No podran superposar-se les línees.
+3. Acabar de dibuixar quan en la fulla ja no capien més línees.
+
+### La foscor
+
+1. Utilitzar el full blanc 1m x 1m
+2. Dibuixar en taques amb tinta xina desde el centre. Cada participant en el seu torn deu anar fent superfícies de taca de tinta que es dibuixaran desde el centre fins omplir tot el paper.
+3. Acabar de dibuixar quan la fulla estiga tot fosc.
+
+### Gotelé
+
+1. Utilitza el full blanc 1m x 1m
+2. Dibuixa per torns amb la ferramenta triada evitant que la ferramenta toque la fulla.
+3. Para de dibuixar quan cregues que s'ha de parar.
+
+### Impacte
+
+1. Utilitza el full blanc 1m x 1m
+2. Dibuixa per torns deixant caure la ferramenta sobre el full.
+3. Para de dibuixar quan cregues que ja ho teniu bé.
+
+### Crea la teua pròpia regla.
+
 
 ## Artist
 * [Kazuo Nakamura. Number Structure II, 1984](https://live.staticflickr.com/4734/39232760241_9c93589450_b.jpg)

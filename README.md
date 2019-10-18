@@ -74,6 +74,23 @@ ingovernables, indisposables o que no es veuen. Vine a explorar amb nosaltres el
 [Uncomputable](https://sfpc.io/uncomputable/)
 
 ## Ethos de la industrialització
+## Joc
+### Materials
+
+X tinta xina
+
+X 4 instruments casers a triar
+
+### Equidistàncies
+
+1. Utilitzar el full blanc 1m x 1m
+2. Dibuixar un punt cadascú
+amb la ferramenta escollida.
+El punt no podrà
+situar-se a menys de 2cm.
+3. Parar quan es crega que el full ja no caben mé
+s punts.
+
 ## Artist
 * [Kazuo Nakamura. Number Structure II, 1984](https://live.staticflickr.com/4734/39232760241_9c93589450_b.jpg)
 * [Apollinaire, Caligrama, poema de 9 de febrer, 1915](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjm2fWm8KDlAhWJnhQKHURgBkcQjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCaligramas_(Apollinaire)&psig=AOvVaw0eOtGcuaveyi7csB08WTa2&ust=1571318661597415)

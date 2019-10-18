@@ -84,24 +84,17 @@ X 4 instruments casers a triar
 ### Personetes
 
 1. Utilitzar el full blanc 1m x 1m
-2. Dibuixar un punt cadascú
-amb la ferramenta escollida.
-El punt no podrà situar-se a menys de 2cm.
+2. Dibuixar un punt cadascú amb la ferramenta escollida. Seguint el torn en sentit horari.
+El punt no deurà situar-se a més de 4cm de la resta de punts.
 3. Parar quan es crega que el full ja no caben més punts.
 
 ### Els camins
 
 1. Utilitzar el full blanc 1m x 1m
-2. Dibuixar una línea contínua tot lo fina que es puga amb la ferramenta escollida.
+2. Dibuixar una línea contínua amb el grossor més fi que es puga conseguir. Seguint el torn en sentit horari.
 Aquesta línea haurà de parar-se de dibuixar quan ja no quede més tinta a l'instrument de dibuix.
-No podran superposar-se les línees.
+No podran superposar-se les línees. Cada jugador deurà de continuar la línea deixada per l'anterior jugador.
 3. Acabar de dibuixar quan en la fulla ja no capien més línees.
-
-### La foscor
-
-1. Utilitzar el full blanc 1m x 1m
-2. Dibuixar en taques amb tinta xina desde el centre. Cada participant en el seu torn deu anar fent superfícies de taca de tinta que es dibuixaran desde el centre fins omplir tot el paper.
-3. Acabar de dibuixar quan la fulla estiga tot fosc.
 
 ### Gotelé
 
@@ -109,11 +102,23 @@ No podran superposar-se les línees.
 2. Dibuixa per torns amb la ferramenta triada evitant que la ferramenta toque la fulla.
 3. Para de dibuixar quan cregues que s'ha de parar.
 
-### Impacte
+### Relacions
 
 1. Utilitza el full blanc 1m x 1m
-2. Dibuixa per torns deixant caure la ferramenta sobre el full.
-3. Para de dibuixar quan cregues que ja ho teniu bé.
+2. El primer dibuixa una C, el segon una A, el tercer una S i el quart una A. 
+A continuació per cada torn crea una línea contínua que envolte els quatre caràcters amb un espai entre els caràcters i la línea de 2cm i progressivament, en els successius torns anar dibuixant aquest línea per fora de la mateixa.
+3. Para de dibuixar quan cregues que ja no es pot dibuixar més.
+
+### La xarxa
+
+1. Utilitza el full blanc 1m x 1m
+2. Cada jugador dibuixarà una figura geomètrica, cercle, quadrat, la resta dels jugadors dibuixaran línees. Cada figura deuerà de ser tangent a alguna d'elles, han de tenir un mínim de 5cm i màxim de 10cm de diàmetre o costat. Al completar el torn el company passarà la ferramenta al següent company, segons les agulles del rellotge.
+
+### La foscor
+
+1. Utilitzar el full blanc 1m x 1m
+2. Dibuixar en taques amb tinta xina desde el centre. Cada participant en el seu torn deu anar fent superfícies de taca de tinta que es dibuixaran desde el centre fins omplir tot el paper.
+3. Acabar de dibuixar quan la fulla estiga tot fosc.
 
 ### Crea la teua pròpia regla.
 

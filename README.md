@@ -112,7 +112,7 @@ A continuació per cada torn crea una línea contínua que envolte els quatre ca
 ### La xarxa
 
 1. Utilitza el full blanc 1m x 1m
-2. Cada jugador dibuixarà una figura geomètrica, cercle, quadrat, la resta dels jugadors dibuixaran línees. Cada figura deuerà de ser tangent a alguna d'elles, han de tenir un mínim de 5cm i màxim de 10cm de diàmetre o costat. Al completar el torn el company passarà la ferramenta al següent company, segons les agulles del rellotge.
+2. Cada jugador dibuixarà una figura geomètrica, cercle, quadrat, triangle i línea. El triangle sempré deurà de ser tangent a algun cercle i/o rectangle. Les línees deuran començar i/o acabar en tangència cercle i/o rectangle. O començar i acabar en els vértex d'un triangle. Han de tenir un mínim de 5cm i màxim de 10cm de diàmetre o costat o llargària. Al completar el torn el company passarà la ferramenta al següent company, segons les agulles del rellotge.
 
 ### La foscor
 

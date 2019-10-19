@@ -122,7 +122,13 @@ A continuació per cada torn crea una línea contínua que envolte els quatre ca
 
 ### Crea la teua pròpia regla.
 
+#### ----
 
+1. Utilitzar el full blanc 1mx1m
+2. Dibuixar amb els ulls tancants i sense fer ús de les mans per a agafar els instruments. Fins que s'acabe la tinta.
+
+#### ----
+1. Cadascú per torns dibuixa una línia el és recta possible de la longitud i el grossor que es vulga. El traç de cada línia ha de creuar-se obligatòriament amb una altra línia, però només amb una. 
 
 ## Artist
 * [Kazuo Nakamura. Number Structure II, 1984](https://live.staticflickr.com/4734/39232760241_9c93589450_b.jpg)

@@ -130,6 +130,12 @@ A continuació per cada torn crea una línea contínua que envolte els quatre ca
 #### ----
 1. Cadascú per torns dibuixa una línia el és recta possible de la longitud i el grossor que es vulga. El traç de cada línia ha de creuar-se obligatòriament amb una altra línia, però només amb una. 
 
+## Bibliografia
+
+* Condigitonal design, Edo Paulus, Luna Maurer, Jonathan Puckey & Roel Wouters, 2007, Valiz.
+* Diseñar programs, Gerstner, Karl, 1979.
+
+
 ## Artist
 * [Kazuo Nakamura. Number Structure II, 1984](https://live.staticflickr.com/4734/39232760241_9c93589450_b.jpg)
 * [Apollinaire, Caligrama, poema de 9 de febrer, 1915](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjm2fWm8KDlAhWJnhQKHURgBkcQjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCaligramas_(Apollinaire)&psig=AOvVaw0eOtGcuaveyi7csB08WTa2&ust=1571318661597415)
